@@ -1,0 +1,241 @@
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+#coreFocusAreas{
+    font-family: Montserrat,sans-serif;
+    margin-top: 90px;
+}
+#coreFocus{
+    height:527px ;
+    width: 100%;
+    margin: auto;
+    background-color:rgb(240,248,251);
+    padding: 64px 0;
+}
+#headCoreFocus{
+    margin: 0 0 8px;
+    height: 40px;
+    width: 93%;
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(6,32,86);
+    margin: auto;
+}
+#card6CoreFocus{
+    /* padding-top: 32px; */
+    margin: auto;
+    height: 448px;
+    width: 93%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* background-color: aqua; */
+    margin-top: 32px;
+}
+.content2{
+    height: 183px;
+    width: 415px;
+    /* border: 1px solid; */
+    padding: 16px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .06), 0 0 4px 0 rgba(0, 0, 0, .04);
+}
+#designIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/IQ-Bots3.png');
+    height:64px ;
+    width: 64px;
+    margin: auto;
+}
+.text11{
+    font-size: 24px;
+    color: rgb(56,77,120);
+    font-weight: 600;
+    margin: 15px 0;
+}
+.text12{
+    margin: 0 0 16px;
+    font-size: 16px;
+}
+
+#inovationIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/IQ-Bots4.png');
+    height:64px ;
+    width: 64px;
+    margin: auto;
+}
+#automationIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/IQ-Bots2.png');
+    height:64px ;
+    width: 64px;
+    margin: auto;
+}
+#dataIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/IQ-Bots.png');
+    height:64px ;
+    width: 64px;
+    margin: auto;
+}
+#cognitiveIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/IQ-Bots1.png');
+    height:64px ;
+    width: 64px;
+    margin: auto;
+}
+#aiIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/IQ-Bots5.png');
+    height:64px ;
+    width: 64px;
+    margin: auto;
+}
+
+
+#ourCustomers{
+    height:341px ;
+    width: 93%;
+    padding: 108px 0 40px;
+    /* background-color: bisque; */
+    margin: auto;
+    position: relative;
+}
+
+
+#text13{
+    font-size: 40px;
+    color: rgb(56,77,120);
+    font-weight: 600;
+    margin: 0 0 8px;
+    letter-spacing: 1px;
+}
+#text14{
+    margin: 0 0 16px;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+#sub{
+    height:116px ;
+    width: 1090px;
+    /* border: 1px solid; */
+    margin: 0 100px 0 0;
+    padding: 54px 100px 54px 223px;
+    background-color: rgb(254,243,228);
+    border-radius: 0 8px 8px 0;
+}
+
+#subDiv{
+    height:116px ;
+    width:1120px ;
+    /* border: 1px solid; */
+    display: flex;
+    
+}
+#subToNews{
+    width: 442px;
+    font-size: 36px;
+    font-weight: 600;
+    color: rgb(242,148,29);
+}
+#subToNewsButton{
+    width: 630px;
+    height: 70px;
+}
+#inputSub{
+    height: 27px;
+    width: 326px;
+    padding: 12px;
+    font-size: medium;
+    border-radius: 5px 0 0 5px;
+    border: 1px solid;
+    outline: none;
+}
+#buttonSub{
+    height: 54px;
+    width: 154px;
+    padding: 10px 30px;
+    border-radius: 0 5px 5px 0;
+    border: 1px solid;
+    font-size: 16px;
+    background-color: rgb(242,148,29);
+    color: white;
+}
+
+#ourPartners{
+    height: 253px;
+    width: 93%;
+    padding: 108px 0 58px ;
+    margin: auto;
+    /* background-color: bisque; */
+}
+#text15{
+    font-size: 40px;
+    color: rgb(56,77,120);
+    font-weight: 600;
+    margin: 0 0 8px;
+    letter-spacing: 1px;
+}
+#text16{
+    margin: 0 0 16px;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+#partners{
+    height:66px ;
+    width: 100%;
+    padding: 48px 0;
+    /* background-color: yellow; */
+    display: flex;
+}
+.contentPart{
+    height: 50px;
+    width: 224px;
+    padding: 0 12px 16px;
+    /* border: 1px solid; */
+    /* margin: auto; */
+}
+#autoAnyIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/09/01.png');
+    background-size: cover;
+    height:50px ;
+    width:136px ;
+    margin: auto;
+}
+
+#microsoftIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/09/04.png');
+    background-size: cover;
+    height:50px ;
+    width:136px ;
+    margin: auto;
+}
+#koreIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/09/02.png');
+    background-size: cover;
+    height:50px ;
+    width:136px ;
+    margin: auto;
+}
+#uiPathIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/09/05.png');
+    background-size: cover;
+    height:50px ;
+    width:136px ;
+    margin: auto;
+}
+#quickbaseIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/09/03.png');
+    background-size: cover;
+    height:50px ;
+    width:136px ;
+    margin: auto;
+}
+#salesforceIMG{
+    background-image: url('https://bradsol.com/wp-content/uploads/2024/03/finalsalesforce-logo.png');
+    background-size: cover;
+    height:50px ;
+    width:71px ;
+    margin: auto;
+}

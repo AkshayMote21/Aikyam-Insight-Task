@@ -1,0 +1,167 @@
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+#hyperAutomation{
+    font-family: Montserrat,sans-serif;
+}
+#hyperAuto{
+    width: 100%;
+    height: 389px;
+    padding: 50px 0px 100px 0;
+    background: linear-gradient(0deg, rgba(13, 141, 188, 0) 5.87%, #0D8DBC 51.23%, #000D1D 82.46%);
+}
+#cardHyperAuto{
+    width:1243.2px ;
+    height:289px ;
+    margin-left: 100px;
+    border-radius: 10px 0 0 10px;
+    background-color: white;
+    padding: 50px 76px 50px 100px;
+    
+}
+#subCardHyperAuto{
+    width: 100%;
+    height: 289px;
+    display: flex;
+    flex-direction: row;
+}
+#textSubCardHyper{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+
+}
+#text1{
+    font-size: 40px;
+    color: rgb(6,32,86);
+    font-weight: 500;
+    margin: 0px 0px 8px 0px;
+}
+#text2{
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0 0 16px;
+}
+#imgSubCardHyper{
+    height: 100%;
+    width: 100%;
+    padding: 0 12px;
+}
+#imgHyperAutomation{
+    height: 273px;
+    width: 478px;
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/09/banner_hyper.svg');
+    border-radius: 10px;
+    margin: 0;
+}
+
+
+/* ----------------------------------------------------------------------------- */
+
+#affectsHyperAuto{
+    margin: auto;
+    width: 93%;
+    height: 912px;
+    /* background-color:rgb(243, 221, 136); */
+}
+#text3{
+    font-size: 40px;
+    color: rgb(6,32,86);
+    font-weight: 500;
+    margin: 0px 0px 8px 0px;
+}
+#text4{
+    font-size: 16px;
+    margin: 0 0 16px;
+}
+#industryCard{
+    height: 698px;
+    width: 1180px;
+    padding: 32px 0 64px;
+    /* background-color: aqua; */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card7{
+    height: 141px;
+    width: 548px;
+    /* border: 1px solid; */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+#contactIMG{
+    height: 48px;
+    width: 48px;
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/contact.png');
+}
+.content{
+    width:476px ;
+    height:113px ;
+    text-align: left;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: left; */
+    /* text-align: left; */
+    /* border: 1px solid; */
+}
+.text5{
+    font-size: 24px;
+    font-weight: 500;
+    margin: 15px 0;
+    color: rgb(90,107,143);
+}
+.text6{
+    font-size: 16px;
+    margin: 0 0 16px;
+}
+
+#EstateIMG{
+    height: 48px;
+    width: 48px;
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/home.png');
+}
+#EcomIMG{
+    height: 48px;
+    width: 48px;
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/laptop-2.png');
+}
+#ManufacturingIMG{
+    height: 48px;
+    width: 48px;
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/wrench.png');
+}
+#PharmaIMG{
+    height: 48px;
+    width: 48px;
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/flask-conical.png');
+}
+#financialIMG{
+    height: 48px;
+    width: 48px;
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/line-chart.png');
+}
+#healthIMG{
+    height: 48px;
+    width: 48px;
+    background-image: url('https://bradsol.com/wp-content/uploads/2023/08/heart-pulse.png');
+}
+#content1,#content3,#content5{
+    border-bottom: 1px dashed rgb(130,130,130);
+    border-right: 1px dashed rgb(130,130,130);
+}
+
+#content2,#content4,#content6{
+    border-bottom: 1px dashed rgb(130,130,130);
+}
+#content7{
+    border-right: 1px dashed rgb(130,130,130);
+}

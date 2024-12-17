@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/ImageSlider.css'; 
+import '../../styles/MainDivision/ImageSlider.css'; 
 
 function ImageSlider(){
   const slides = [
@@ -28,12 +28,10 @@ function ImageSlider(){
 
   const [currentIndex, setCurrentIndex] = useState(0);
 
-  // Function to go to the next image
   const nextImage = () => {
     setCurrentIndex((prevIndex) => (prevIndex + 1) % slides.length);
   };
 
-  // Function to go to the previous image
   const prevImage = () => {
     setCurrentIndex(
       (prevIndex) => (prevIndex - 1 + slides.length) % slides.length
@@ -43,7 +41,7 @@ function ImageSlider(){
   return (
     <div className="slider-container">
       <button className="arrow left" onClick={prevImage}>
-        &#8592; {/* Left Arrow */}
+        &#8592;
       </button>
 
       <div className="image-container">
@@ -62,7 +60,7 @@ function ImageSlider(){
       </div>
 
       <button className="arrow right" onClick={nextImage}>
-        &#8594; {/* Right Arrow */}
+        &#8594;
       </button>
     </div>
   );
